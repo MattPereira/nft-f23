@@ -1,3 +1,5 @@
+https://youtu.be/sas02qSFZ74?t=27656
+
 # Happy svg
 
 data:image/svg+xml;base64,
@@ -53,8 +55,3 @@ cast send <nft_smart_contract_address> "mintNft()" --private-key $ANVIL_PK --rpc
 
 ### Flip mood using cast
 cast send 0x5FbDB2315678afecb367f032d93F642f64180aa3 "flipMood(uint256)" 0 --private-key $ANVIL_PK --rpc-url $ANVIL_RPC_URL
-
-
-# Bookmark
-
-https://youtu.be/sas02qSFZ74?t=36856
